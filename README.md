@@ -1,2 +1,22 @@
 # typecho-qiniu
 typecho附件七牛云上传
+
+TODO:
+七牛云文件管理
+******
+
+>七牛云提供文件存储,音频处理,文档转换,CDN等服务。    —— [官网](https://www.qiniu.com)
+
+> 参考[七牛云存储使用指南]    —— [七牛云文档](http://developer.qiniu.com/) 
+
+**使用方法**
+上传至:/usr/plugins
+
+安装后填写设置信息
+
+上传附件
+
+
+## 反馈与建议
+- 微博：[@rain](http://weibo.com/u/771772666)
+- 邮箱：<t0716@126.com>
