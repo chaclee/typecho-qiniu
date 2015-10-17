@@ -1,5 +1,4 @@
-# typecho-qiniu
-typecho附件七牛云上传
+# typecho附件七牛云上传
 
 TODO:
 七牛云文件管理
@@ -15,6 +14,17 @@ TODO:
 安装后填写设置信息
 
 上传附件
+
+### 使用方法
+```flow
+st=>start: 上传至:/usr/plugins
+e=>end
+op=>operation: 启用插件
+op=>operation: 填写配置信息,保存
+op=>operation: 开始撰写文章体验附件上传
+
+
+```
 
 
 ## 反馈与建议
