@@ -16,7 +16,7 @@ TODO:
 
 
 ###请注意:
- >**文件夹名应为:QiniuFile,与plugin.php中的QiniuFile_Plugin一致,
+ >文件夹名应为:QiniuFile,与plugin.php中的QiniuFile_Plugin一致,
 
 ## 反馈与建议
 - 微博：[@rain](http://weibo.com/u/771772666)
