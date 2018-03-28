@@ -17,10 +17,6 @@ TODO:
 
 ###请注意:
  >文件夹名应为:QiniuFile,与plugin.php中的QiniuFile_Plugin一致,
-
-## 反馈与建议
-- 微博：[@rain](http://weibo.com/u/771772666)
-- 邮箱：<t0716@126.com>
-
+ 
 ---------
 感谢使用。若觉得不错,别忘了**star**。
